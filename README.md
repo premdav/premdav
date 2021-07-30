@@ -13,4 +13,4 @@
 ![forthebadge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## About Me
-I am a full time software engineer currently building web and mobile apps and leading a team of 7 at Valcom, Inc. I am currently working heavily in React and Node, and starting also to get into Python regularly. When I am not working, I am most likely spending my time playing video games, hanging out with family, and working on building out a couple of personal projects.
+I am a full time software engineer currently building web and mobile apps and leading a team of 7 at Valcom, Inc. I am currently working heavily in React, React Native, and Node, and I starting also to use Python regularly also. When I am not working, I am most likely spending my time playing video games, hanging out with family, and working on building out a couple of personal projects.
