@@ -18,6 +18,8 @@
 ![forthebadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About Me
-I am a full time software engineer currently building web and mobile apps and leading a team of 7 at Valcom, Inc. I am currently working heavily in React, React Native, and Node, and I starting also to use Python regularly. When I am not working, I am most likely spending my time exploring new places, hanging out with family, or working on building out a couple of personal projects.
+I am a full time software engineer currently building web and mobile apps and leading a team of 6 at Valcom, Inc. I am currently working heavily in React, React Native, and Node, and I starting also to use Python regularly. When I am not working, I am most likely spending my time exploring new places, hanging out with family, or working on building out a couple of personal projects.
+
+I am also working on expanding my Python knowledge by working through a udemy course, and working on improving my logic skills by working through programming problems on leetcode and hackerrank. 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=premdav&theme=black-ice&ring=3B8A62&currStreakLabel=FFFFFF&fire=DD8235)](https://git.io/streak-stats)
