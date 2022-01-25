@@ -20,6 +20,6 @@
 ## About Me
 I am a full time software engineer currently building web and mobile apps and leading a team of 7 at Valcom, Inc. I work heavily in React, React Native, and Node. When I am not working, I enjoy spending my time exploring new cities, hanging out with family, or building out a couple of personal projects.
 
-Currently working on building out [The Abide Project](https://abideproject.com), a Bible reading tracker with a goal of getting more people engaged with the word of God. Once the web application is completed, I am planning to start developing the mobile app with React Native.
+Currently working on increasing my knowledge of web3 technologies and diving into the blockchain world.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=premdav&theme=black-ice&ring=3B8A62&currStreakLabel=FFFFFF&fire=DD8235)](https://git.io/streak-stats)
