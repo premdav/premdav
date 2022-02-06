@@ -1,7 +1,4 @@
-# ☕Hi there, I'm Preston!
-<!--
-**premdav/premdav** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+# ☕Hi there!
 
 ### Technologies I use
 ![forthebadge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -18,7 +15,7 @@
 ![forthebadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About Me
-I am a full time software engineer currently building web and mobile apps and leading a team of 7 at Valcom, Inc. I work heavily in React, React Native, and Node. When I am not working, I enjoy spending my time exploring new cities, hanging out with family, or building out a couple of personal projects.
+I am a full time software engineer currently building web and mobile apps and leading a development team of 7. I work heavily in React, React Native, and Node. When I am not working, I enjoy spending my time exploring new cities, hanging out with family, or building out a couple of personal projects.
 
 Currently working on increasing my knowledge of web3 technologies and diving into the blockchain world.
 
