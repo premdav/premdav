@@ -15,8 +15,6 @@
 ![forthebadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About Me
-I am a full time software engineer currently building web and mobile apps and leading a development team of 7. I work heavily in React, React Native, and Node. When I am not working, I enjoy spending my time exploring new cities, hanging out with family, or building out a couple of personal projects.
-
-Currently working on increasing my knowledge of web3 technologies and diving into the blockchain world.
+I am a full time software engineer currently building web and mobile apps and leading a development team of 7. I work heavily in React, React Native, and Node. Outside of work, I can typically be found playing games with friends, watching sound tests on YouTube for keyboard switches, or hanging out with family. In the future, I would love to travel to truly embrace the benefits of remote work and see the amazing world that is out there.
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=premdav&theme=black-ice&ring=3B8A62&currStreakLabel=FFFFFF&fire=DD8235)](https://git.io/streak-stats)
