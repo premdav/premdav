@@ -14,6 +14,13 @@
 ![forthebadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About Me
-I am a full time software engineer currently building web and mobile apps and leading a development team of 7. I work heavily in React, React Native, and Node. Right now, my main hobbies are mechanical keyboards, video games, and traveling. I am currently in the process of learning a new keyboard layout, Colemak, in hopes of improving ergonomics while I use my computer. In the future, I would love to travel to truly embrace the benefits of remote work and see the amazing world that is out there.
+I am a full time software engineer currently building web and mobile apps and leading a development team of 7. I work heavily in React, React Native, and Node.
+
+### Outside of work I can be found
+- learning to type using the Colemak layout
+- playing video games with friends
+- watching mechanical keyboard sound test videos
+- learning about theology
+- dreaming of being an astronaut while contemplating if I could build a self landing model rocket
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=premdav&theme=black-ice&ring=3B8A62&currStreakLabel=FFFFFF&fire=DD8235)](https://git.io/streak-stats)
