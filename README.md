@@ -23,4 +23,6 @@ I am a full time software engineer currently building web and mobile apps and le
 - learning about theology
 - dreaming of being an astronaut while contemplating if I could build a self landing model rocket
 
+Currently: Cartagena, Colombia
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=premdav&theme=black-ice&ring=3B8A62&currStreakLabel=FFFFFF&fire=DD8235)](https://git.io/streak-stats)
