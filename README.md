@@ -17,9 +17,9 @@
 I am a full time software engineer currently building web and mobile apps and leading a development team of 7. I work heavily in React, React Native, and Node.
 
 ### Outside of work I can be found
-- learning to type using the Colemak layout
+- traveling to and exploring new places
 - playing video games with friends
-- watching mechanical keyboard sound test videos
+- planning my next trips
 - learning about theology
 - dreaming of being an astronaut while contemplating if I could build a self landing model rocket
 
