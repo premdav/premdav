@@ -14,14 +14,13 @@
 ![forthebadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About Me
-I am a full time software engineer currently building web and mobile apps and leading a small development team. I work heavily in React, React Native, and Node.
+I am a full time software engineer currently building web and mobile apps with React, React Native, and Node.
 
 ### Outside of work I can be found
 - traveling to and exploring new places
 - playing video games with friends
 - planning my next trips
 - learning about theology
-- dreaming of being an astronaut while contemplating if I could build a self landing model rocket
 
 Currently: Oklahoma City, OK
 
