@@ -26,6 +26,6 @@ I am a full time software engineer currently building web and mobile apps with R
 Keyboard: KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul \
 Currently: Oklahoma City, OK
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=premdav&theme=black-ice&ring=3B8A62&currStreakLabel=FFFFFF&fire=DD8235)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=premdav&theme=github-dark)](https://git.io/streak-stats)
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
