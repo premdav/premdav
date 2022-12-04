@@ -19,9 +19,9 @@ I am a full time software engineer currently building web and mobile apps with R
 ### Outside of work I can be found
 - traveling to and exploring new places
 - playing video games with friends
-- planning my next trips
 - learning about theology
 - learning mobile development with Flutter
+- doing various home improvment projects
 
 Keyboard: KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul \
 Currently: Oklahoma City, OK
