@@ -23,8 +23,7 @@ I am a full time software engineer currently building web and mobile apps with R
 - learning mobile development with Flutter
 - doing various home improvment projects
 
-Keyboard: KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul \
-Currently: Oklahoma City, OK
+Keyboard: KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=premdav&theme=github-dark)](https://git.io/streak-stats)
 
