@@ -21,9 +21,9 @@ I am a full time software engineer currently building web and mobile apps with R
 - playing video games with friends
 - learning about theology
 - learning mobile development with Flutter
-- doing various home improvment projects
 
-Keyboard: KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul 
+Keyboard: <br>
+KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=premdav&theme=github-dark)](https://git.io/streak-stats)
 
