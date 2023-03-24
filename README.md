@@ -17,10 +17,10 @@
 I am a full time software engineer currently building web and mobile apps with React, Node, and Python.
 
 ### Outside of work I can be found
+- experimenting with new recipes
 - traveling to and exploring new places
+- attempting to improve my fitness
 - playing video games with friends
-- learning about theology
-- learning mobile development with Flutter
 
 Keyboard: <br>
 KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul 
