@@ -19,8 +19,7 @@ I am a full time software engineer currently building web and mobile apps with R
 ### Outside of work I can be found
 - experimenting with new recipes
 - traveling to and exploring new places
-- attempting to improve my fitness
-- playing video games with friends
+- walking around the park enjoying some sunshine
 
 #### Keyboard:
 KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul <br>
