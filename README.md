@@ -1,4 +1,4 @@
-# ☕Hi there!
+# ☕ Hi there!
 
 ### Technologies I use
 ![forthebadge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
