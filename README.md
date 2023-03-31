@@ -20,6 +20,7 @@ I am a full time software engineer currently building web and mobile apps with R
 - experimenting with new recipes
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
+- exploring the world of Web3
 
 #### Keyboard:
 KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul <br>
