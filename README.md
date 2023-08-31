@@ -14,20 +14,20 @@
 ![forthebadge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## About Me
-I am a full time software engineer currently building web and mobile apps with React, Node, and Python.
+I am a senior software engineer currently building out web and mobile applications with React and React Native. 
+In addition to those technologies, I also enjoy working with Node and Python to bring data and useful APIs into my applications.
 
 ### Outside of work I can be found
-- experimenting with new recipes
+- relaxing with video games
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
-- exploring the world of Web3
+- exploring how to improve ergonomics in my setup
 
 #### Keyboard:
 KBDFans Kunlun - Lubed Gateron X - PBTFans Classic Hangul <br>
+(Soon to be Dygma Defy!!)
 
 #### [Work Github Account](https://github.com/preston-m-davis)
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=premdav&theme=github-dark)](https://git.io/streak-stats)
-
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com)
