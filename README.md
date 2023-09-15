@@ -24,9 +24,9 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 - exploring how to improve ergonomics in my setup
 
 ### Tools I use every day
-#### Keyboard:
-KBDFans D65 - NK Milkshakes - GMK Redacted <br>
-(Soon to be Dygma Defy!)
+#### Keyboards:
+- KBDFans D65 - NK Milkshakes - GMK Redacted <br>
+- KBDFans Kunlun - Gateron X - PBTFans Classic Hangul
 
 #### [Work Github Account](https://github.com/preston-m-davis)
 
