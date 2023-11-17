@@ -1,4 +1,4 @@
-# ☕ Hi there!
+# Hey, I'm Preston
 
 ### Technologies I use
 ![forthebadge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -7,7 +7,6 @@
 ![forthebadge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![forthebadge](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![forthebadge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![forthebadge](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![forthebadge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -18,6 +17,8 @@ I am a senior software engineer currently building out web and mobile applicatio
 In addition to those technologies, I also enjoy working with Node and Python to bring data and useful APIs into my applications.
 
 ### Outside of work I can be found
+- learning more about AWS and serverless tech
+- reading through Clean Code
 - relaxing with video games
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
@@ -25,7 +26,6 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 
 ### Tools I use every day
 #### Keyboards:
-- KBDFans D65 - NK Milkshakes - GMK Redacted <br>
 - KBDFans Kunlun - Gateron X - PBTFans Classic Hangul
 
 #### [Work Github Account](https://github.com/preston-m-davis)
