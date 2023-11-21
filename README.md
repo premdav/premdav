@@ -13,6 +13,8 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 
 ### Tools I use every day
 #### Keyboards:
+- Dygma Defy - Kailh Silent Browns
+- ZSA Voyager - Kailh Choc Reds
 - KBDFans Kunlun - Gateron X - PBTFans Classic Hangul
 
 #### [Work Github Account](https://github.com/preston-m-davis)
