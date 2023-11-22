@@ -6,10 +6,9 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 - learning more about AWS and serverless tech
 - reading through Clean Code
 - building out side projecs
-- relaxing with video games
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
-- exploring how to improve ergonomics in my setup
+- learning Vim
 
 ### Tools I use every day
 #### Keyboards:
