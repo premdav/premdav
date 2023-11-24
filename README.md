@@ -14,7 +14,7 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 #### Keyboards:
 - Dygma Defy - Kailh Silent Browns
 - ZSA Voyager - Kailh Choc Reds
-- KBDFans Kunlun - Gateron X - PBTFans Classic Hangul
+- KBDFans Kunlun - Gateron X - PBTFans Classic Hangul ( when gaming)
 
 #### [Work Github Account](https://github.com/preston-m-davis)
 
