@@ -3,12 +3,11 @@ I am a senior software engineer currently building out web and mobile applicatio
 In addition to those technologies, I also enjoy working with Node and Python to bring data and useful APIs into my applications.
 
 ### Outside of work I can be found
-- learning more about AWS and serverless tech
+- learning more about theology and studying Scripture
 - reading through Clean Code
-- building out side projecs
+- building side projecs
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
-- learning Vim
 
 ### Tools I use every day
 #### Keyboards:
