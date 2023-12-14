@@ -9,6 +9,11 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
 
+### In the next year I hope to
+- Road trip to Alaska (Anchorage and Fairbanks)
+- Buy a new vehicle
+- Learn Rust enough to build amazing applications with the language
+
 ### Tools I use every day
 #### Keyboards:
 - Dygma Defy - Kailh Silent Browns - Main
