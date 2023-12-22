@@ -11,8 +11,7 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 
 ### In the next year I hope to
 - Road trip to Alaska (Anchorage and Fairbanks)
-- Buy a new vehicle
-- Learn Rust enough to build amazing applications with the language
+- Consistently lift and make it a habit -> pursuing general health
 
 ### Tools I use every day
 #### Keyboards:
