@@ -3,15 +3,13 @@ I am a senior software engineer currently building out web and mobile applicatio
 In addition to those technologies, I also enjoy working with Node and Python to bring data and useful APIs into my applications.
 
 ### Outside of work I can be found
-- learning more about theology and studying Scripture
 - reading through Clean Code
-- building side projecs
+- building my (personal site)[prestonontheroad.com]
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
 
-### In the next year I hope to
-- Road trip to Alaska (Anchorage and Fairbanks)
-- Consistently lift and make it a habit -> pursuing general health
+### In 2024 I plan to
+- Road trip to both the northernmost drivable point in the US (Prudhoe Bay, AK) AND the southermost point (Key West, FL)
 
 ### Tools I use every day
 #### Keyboards:
