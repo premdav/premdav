@@ -4,7 +4,7 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 
 ### Outside of work I can be found
 - reading through Clean Code
-- building my [personal site](prestonontheroad.com)
+- building my [personal site](https://prestonontheroad.com)
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
 
