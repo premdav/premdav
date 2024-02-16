@@ -9,7 +9,7 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 - walking around the park enjoying some sunshine
 
 ### In 2024 I plan to
-- Road trip to both the northernmost drivable point in the US (Prudhoe Bay, AK) AND the southermost point (Key West, FL)
+- Road trip to both the northernmost drivable point in the US (Prudhoe Bay, AK) AND the southernmost point (Key West, FL)
 
 ### Tools I use every day
 #### Keyboards:
