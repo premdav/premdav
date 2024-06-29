@@ -1,9 +1,10 @@
 ## Preston
-I am a senior software engineer currently building out web and mobile applications with React and React Native. 
-In addition to those technologies, I also enjoy working with Node and Python to bring data and useful APIs into my applications.
+I am a senior software engineer with a current focus on front end application development with React and Typescript. 
+In addition to React, I am brushing up on my backend and API skills with Python (FastAPI) and Node/express.
+#### [Work Github Account](https://github.com/preston-m-davis)
 
 ### Outside of work I can be found
-- learning new tech skills and languages, currently brushing up on backend systems and wanting to soon learn Rust
+- learning new technologies and honing my skills on personal projects
 - building my [personal site](https://prestonontheroad.com)
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
@@ -15,7 +16,11 @@ In addition to those technologies, I also enjoy working with Node and Python to 
 - Epiphany 70 - Gateron EF Curry - GMK Art - Development/gaming/general
 - ZSA Voyager - Kailh Choc Reds - Travel
 
-#### [Work Github Account](https://github.com/preston-m-davis)
+#### Machines
+- Macbook Pro 16" - M2 - Work
+- Macbook Pro 13" - Intel - Personal projects
+- Gaming PC - rtx 3080 + intel i7 - Gaming/personal projects
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=premdav&theme=dark&background=45%2C1CA4EBAB%2CEBB08D&ring=EBB390&fire=214F86&dates=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
