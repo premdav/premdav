@@ -3,19 +3,17 @@ I am a senior software engineer currently building out web and mobile applicatio
 In addition to those technologies, I also enjoy working with Node and Python to bring data and useful APIs into my applications.
 
 ### Outside of work I can be found
-- reading through Clean Code
+- learning new tech skills and languages, currently brushing up on backend systems and wanting to soon learn Rust
 - building my [personal site](https://prestonontheroad.com)
 - traveling to and exploring new places
 - walking around the park enjoying some sunshine
 
-### In 2024 I plan to
-- Road trip to both the northernmost drivable point in the US (Prudhoe Bay, AK) AND the southernmost point (Key West, FL)
-
 ### Tools I use every day
 #### Keyboards:
-- Dygma Defy - Kailh Silent Browns - Main
+- Dygma Defy - Kailh Silent Browns - Main/development/general
+- KBDFans Kunlun - Gateron X - PBTFans Classic Hangul - Development/gaming/general
+- Epiphany 70 - Gateron EF Curry - GMK Art - Development/gaming/general
 - ZSA Voyager - Kailh Choc Reds - Travel
-- KBDFans Kunlun - Gateron X - PBTFans Classic Hangul - Gaming
 
 #### [Work Github Account](https://github.com/preston-m-davis)
 
