@@ -10,7 +10,6 @@
 - Dygma Defy - Kailh Silent Browns - Main/development/general
 
 #### Machines
-- Macbook Pro 16" - M2
 - Lenovo Legion 7i - rtx 4070 + intel i9
 - Desktop - rtx 3080 + intel i7
 
