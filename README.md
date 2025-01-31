@@ -1,8 +1,7 @@
 #### [Work Github Account](https://github.com/preston-m-davis)
 
 ### Outside of work I can be found
-- learning new technologies and honing my skills on personal projects
-- building my personal site
+- building things with new technologies and learning
 - traveling to and exploring new places
 
 ### Tools I use every day
@@ -12,7 +11,3 @@
 #### Machines
 - Lenovo Legion 7i - rtx 4070 + intel i9
 - Desktop - rtx 3080 + intel i7
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=premdav&theme=dark&background=45%2C1CA4EBAB%2CEBB08D&ring=EBB390&fire=214F86&dates=FFFFFF&currStreakLabel=FFFFFF&sideNums=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF)](https://git.io/streak-stats)
