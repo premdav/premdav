@@ -1,8 +1,8 @@
 #### [Work Github Account](https://github.com/preston-m-davis)
 
 ### Outside of work I can be found
-- building things with new technologies and learning
-- traveling to and exploring new places
+- Traveling to and exploring new places
+- Building Outbnd Collective - a collaborative travel planning and journal application
 
 ### Tools I use every day
 #### Keyboards:
